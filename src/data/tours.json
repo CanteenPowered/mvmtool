@@ -1,0 +1,231 @@
+{
+    "tours": [
+        {
+            "name": "No Tour",
+            "nicknames": [
+                "boot camp",
+                "bootcamp"
+            ],
+            "missions": [
+                {
+                    "popfile":  "mvm_decoy",
+                    "name":     "Doe's Drill"
+                },
+                {
+                    "popfile":  "mvm_coaltown",
+                    "name":     "Crash Course"
+                },
+                {
+                    "popfile":  "mvm_mannworks",
+                    "name":     "Mann-euvers",
+                    "nicknames": [
+                        "Manneuvers"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_bigrock",
+                    "name":     "Benign Infiltration",
+                    "nicknames": [
+                        "Benign",
+                        "Infiltration"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_manhattan",
+                    "name":     "Big Apple Barricade",
+                    "nicknames": [
+                        "Big Apple"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_rottenburg",
+                    "name":     "Village Vanguard",
+                    "nicknames": [
+                        "Vanguard"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_ghost_town",
+                    "name":     "Caliginous Caper",
+                    "nicknames": [
+                        "caper",
+                        "666",
+                        "w666"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Oil Spill",
+            "nicknames": [
+                "os"
+            ],
+            "missions": [
+                {
+                    "popfile":  "mvm_decoy_intermediate",
+                    "name":     "Doe's Doom"
+                },
+                {
+                    "popfile":  "mvm_decoy_intermediate2",
+                    "name":     "Day of Wreckening"
+                },
+                {
+                    "popfile":  "mvm_coaltown_intermediate",
+                    "name":     "Cave-in"
+                },
+                {
+                    "popfile":  "mvm_coaltown_intermediate2",
+                    "name":     "Quarry"
+                },
+                {
+                    "popfile":  "mvm_mannworks_intermediate",
+                    "name":     "Mean Machines"
+                },
+                {
+                    "popfile":  "mvm_mannworks_intermediate2",
+                    "name":     "Mannhunt"
+                }
+            ]
+        },
+        {
+            "name": "Steel Trap",
+            "nicknames": [
+                "steel",
+                "st"
+            ],
+            "missions": [
+                {
+                    "popfile":  "mvm_decoy_advanced",
+                    "name":     "Disk Deletion"
+                },
+                {
+                    "popfile":  "mvm_decoy_advanced2",
+                    "name":     "Data Demolition"
+                },
+                {
+                    "popfile":  "mvm_coaltown_advanced",
+                    "name":     "Ctrl+Alt+Destruction"
+                },
+                {
+                    "popfile":  "mvm_coaltown_advanced2",
+                    "name":     "CPU Slaughter"
+                },
+                {
+                    "popfile":  "mvm_mannworks_advanced",
+                    "name":     "Machine Massacre"
+                },
+                {
+                    "popfile":  "mvm_mannworks_ironman",
+                    "name":     "Mech Mutilation",
+                    "nicknames": [
+                        "ironman"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mecha Engine",
+            "nicknames": [
+                "mecha",
+                "me"
+            ],
+            "missions": [
+                {
+                    "popfile":  "mvm_bigrock_advanced1",
+                    "name":     "Broken Parts",
+                    "nicknames": [
+                        "parts",
+                        "bp"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_bigrock_advanced2",
+                    "name":     "Bone Shaker",
+                    "nicknames": [
+                        "shaker",
+                        "bs"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_decoy_advanced3",
+                    "name":     "Disintegration",
+                    "nicknames": [
+                        "disint"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Two Cities",
+            "nicknames": [
+                "cities",
+                "tc",
+                "2c"
+            ],
+            "missions": [
+                {
+                    "popfile":  "mvm_mannhattan_advanced1",
+                    "name":     "Empire Escalation",
+                    "nicknames": [
+                        "empire",
+                        "ee"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_mannhattan_advanced2",
+                    "name":     "Metro Malice",
+                    "nicknames": [
+                        "metro",
+                        "mm"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_rottenburg_advanced1",
+                    "name":     "Hamlet Hostility",
+                    "nicknames": [
+                        "hamlet",
+                        "hh"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_rottenburg_advanced2",
+                    "name":     "Bavarian Botbash",
+                    "nicknames": [
+                        "botbash",
+                        "bb"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gear Grinder",
+            "nicknames": [
+                "grinder",
+                "gg"
+            ],
+            "missions": [
+                {
+                    "popfile":  "mvm_decoy_expert1",
+                    "name":     "Desperation",
+                    "nicknames": [
+                        "desp"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_coaltown_expert1",
+                    "name":     "Cataclysm",
+                    "nicknames": [
+                        "cata"
+                    ]
+                },
+                {
+                    "popfile":  "mvm_mannworks_expert1",
+                    "name":     "Mannslaughter",
+                    "nicknames": [
+                        "slaughter"
+                    ]
+                }
+            ]
+        }
+    ]
+}

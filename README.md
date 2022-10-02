@@ -14,6 +14,21 @@ SUBCOMMANDS:
     list-missions    Lists known missions
     set-key          Sets the Steam web API key
 ```
+```
+Finds MvM matches
+
+USAGE:
+    mvmtool find [FLAGS] [OPTIONS]
+
+FLAGS:
+    -h, --help            Prints help information
+        --skip-players    Skip player queries
+    -V, --version         Prints version information
+
+OPTIONS:
+    -m, --mission <mission>    Mission to search
+    -t, --tour <tour>          Tour to search
+```
 
 ## License
 

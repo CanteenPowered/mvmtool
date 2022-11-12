@@ -51,7 +51,8 @@ macro_rules! config_or_fail {
             Some(c) => c,
             None    => {
                 eprintln!("Couldn't find Steam web API key");
-                eprintln!("Run `mvmtool set-key <key>`");
+                eprintln!("Register an API key here: https://steamcommunity.com/dev/apikey");
+                eprintln!("Set your key with `mvmtool set-key <key>`");
                 return Ok(-1);
             }
         }

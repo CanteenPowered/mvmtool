@@ -2,7 +2,7 @@
 
 ## Building
 1. Install the [Rust toolchain](https://rustup.rs/)
-2. Open the project folder from a terminal
+2. Open the project directory in a terminal
 3. Run `cargo install --path .` to install
 4. Obtain a Steam web API key here: https://steamcommunity.com/dev/apikey
 5. Run `mvmtool sey-key <key>`

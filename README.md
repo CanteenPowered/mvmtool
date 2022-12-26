@@ -1,4 +1,4 @@
-## vtabledump - EA command-line tool for querying Valve MvM servers 
+## mvmtool - A command-line tool for querying Valve MvM servers 
 
 ## Building
 1. Install the [Rust toolchain](https://rustup.rs/)
